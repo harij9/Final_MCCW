@@ -13,6 +13,7 @@ Please [__fork this repo__](https://help.github.com/articles/fork-a-repo/) and u
 - Hari Jaswal, Developer
 - Dikshat Kumar, Engineer
 - Yogesh Mundada, Developer
+- Puja Kumari, Business development. 
 
 
 #### Project Description
