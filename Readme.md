@@ -3,31 +3,35 @@
 _This is a sample submission repository.
 Please [__fork this repo__](https://help.github.com/articles/fork-a-repo/) and use this as a starting point for your hackathon project._
 
-## Project Name
-### Team name
-#### Hackathon Track
+## My Carbon Credit Watch
+### My Carbon Credit Watch
+#### Hackathon Track: Green Track: Build software that relates to the environment or regenerative economy // Infrastructure and Web3 Track:
 
-##### Region location
+##### USA
 
 ##### Team Members
-- Teammate 1, role
-- Teammate 2, role
-- Teammate 3, role
+- Hari Jaswal, Developer
+- Dikshat Kumar, Engineer
+
 
 #### Project Description
-Provide a clear statement of the challenges/issues/problems/gaps your project engages as well as a brief, high-level description of how your project engages the areas you've identified. What is the value of your approach? Who are the intended users?
+We created a dApp that enables customer to claim, buy/sell carbon credits in a single platform. We have smart meters APIs integrated to award solar panel owners with carbon credit.
+
 
 #### Summary
-Describe the basic functionality of your project. What are the features you were able to implement? What features would you like to implement?
+- Crowdsourcing platform where our user support carbon credit generation project around the world.
+- Integrate PG&E smartmeter(SmartRate™) APIs with Celo. We create ledgered documentation and marketplace to trade carbon credits. 
+
 
 #### URLs
-List any URLs relevant to demonstrating your prototype
+
 
 #### Presentation
-List any links to your presentation or any related visuals you want to share.
+https://docs.google.com/presentation/d/1Nk_a0L-volZuaw5VEQNp0W4dYWEAduq4/edit?usp=sharing&ouid=109179331431270740168&rtpof=true&sd=true 
 
 #### Next Steps
-What do you need to do next to turn this prototype into a working solution?
+Further develop the product 
+on board customers.
 
 #### License
 This repository includes an [unlicensed](http://unlicense.org/) statement though you may want to [choose a different license](https://choosealicense.com/).
