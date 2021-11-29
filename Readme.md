@@ -1,7 +1,6 @@
 
 # ⚡ Hackathon Project Template ⚡
-_This is a sample submission repository.
-Please [__fork this repo__](https://help.github.com/articles/fork-a-repo/) and use this as a starting point for your hackathon project._
+
 
 ## My Carbon Credit Watch
 ### My Carbon Credit Watch
@@ -21,7 +20,7 @@ We created a dApp that enables customer to claim, buy/sell carbon credits in a s
 
 #### Summary
 - Crowdsourcing platform where our user support carbon credit generation project around the world.
-- Integrate PG&E smartmeter(SmartRate™) APIs with Celo. We create ledgered documentation and marketplace to trade carbon credits. 
+- Integrate PG&E smartmeter(SmartRate™) APIs with BlockChain. We create ledgered documentation and marketplace to trade carbon credits. 
 
 
 #### URLs
