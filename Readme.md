@@ -33,5 +33,41 @@ https://docs.google.com/presentation/d/1Nk_a0L-volZuaw5VEQNp0W4dYWEAduq4/edit?us
 Further develop the product 
 on board customers.
 
+Prerequisites
+
+# Install
+
+```
+
+npm install
+
+```
+
+or 
+
+```
+
+yarn install
+
+```
+
+# Start
+
+```
+
+npm run dev
+
+```
+
+# Build
+
+```
+
+npm run build
+
+
+
+
+
 #### License
 This repository includes an [unlicensed](http://unlicense.org/) statement though you may want to [choose a different license](https://choosealicense.com/).
